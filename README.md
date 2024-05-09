@@ -1,3 +1,6 @@
+# Headframe Federico
+![Untitled](https://github.com/IIT-Neurotechnology/Inventor/assets/135230111/ed08e58a-345f-491d-830f-e2105a3f3191)
+
 # Miniscope baseplate
  Baseplate miniscopio in Ergal per accoppiamento foro albero con una lente cilindrica GRIN che verra successivamente incollata per fissare l'accoppiamento.
  
