@@ -38,3 +38,6 @@
 # Virmen based VR tapis roulant 
 
 ![J005558 NRB DRIVEN TREADMILL ASSY Rev A v27](https://github.com/riccifab/Workshop/assets/135230111/fcfee627-58ef-45ea-b477-b2cdb9e85cdf)
+
+# Behavioral cage
+![Untitled_v1_2024-May-22_09-07-54AM-000_CustomizedView17812955483_png](https://github.com/IIT-Neurotechnology/Inventor/assets/135230111/7c234362-8de1-4459-ac66-dfd3a23ac55d)
