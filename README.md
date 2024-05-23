@@ -45,3 +45,6 @@
 
 # Behavioral cage
 ![Untitled_v1_2024-May-22_09-07-54AM-000_CustomizedView17812955483_png](https://github.com/IIT-Neurotechnology/Inventor/assets/135230111/7c234362-8de1-4459-ac66-dfd3a23ac55d)
+
+# IMU 9DOF enclosure
+![43abb87a-aa13-415b-b2ed-3a8269a367bd](https://github.com/IIT-Neurotechnology/Inventor/assets/135230111/02fef966-24d1-4638-9cb8-a4987f6486b5)
